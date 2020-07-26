@@ -1,4 +1,6 @@
-## Welcome to Jump Ball Acadamy
+## Welcome to Jump Ball
+
+Our [Players] (players.md) 
 
 You can use the [editor on GitHub](https://github.com/saravanacu/jumpball/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
